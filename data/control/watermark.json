@@ -1,0 +1,18 @@
+{
+  "gpm": {
+    "max_ingested_date": "2026-11-19",
+    "granules_ingested": 30
+  },
+  "modis_ndvi": {
+    "max_ingested_date": "2026-11-19",
+    "granules_ingested": 30
+  },
+  "smap": {
+    "max_ingested_date": "2026-11-19",
+    "granules_ingested": 30
+  },
+  "viirs_fire": {
+    "max_ingested_date": "2026-11-19",
+    "granules_ingested": 30
+  }
+}

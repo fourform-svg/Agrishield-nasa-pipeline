@@ -1,0 +1,12 @@
+version: 2
+models:
+  - name: farm_risk_daily
+    tests:
+      - unique: [date, state, lga]
+    columns:
+      - name: date
+        tests: [not_null]
+      - name: rainfall_mm
+        tests: [{dbt_utils.accepted_range: {min_value: 0, max_value: 500}}]
+      - name: drought_score
+        tests: [{dbt_utils.accepted_range: {min_value: 0, max_value: 100}}]

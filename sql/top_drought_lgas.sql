@@ -1,0 +1,1 @@
+SELECT l.state, l.lga, COUNT(c.farmer_id) AS farmers_at_risk FROM fact_farm_risk_daily f JOIN dim_location l ON f.location_key=l.location_key JOIN dim_customer c ON c.location_key=l.location_key WHERE f.drought_score > 70 AND c.policy_status='Active' GROUP BY l.state, l.lga ORDER BY farmers_at_risk DESC;

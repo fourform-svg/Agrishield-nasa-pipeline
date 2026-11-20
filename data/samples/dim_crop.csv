@@ -1,0 +1,15 @@
+crop_key,crop_name,crop_type
+1,Maize,Cereal
+2,Rice,Cereal
+3,Millet,Cereal
+4,Sorghum,Cereal
+5,Cassava,Root
+6,Yam,Root
+7,Vegetables,Vegetable
+8,Tomato,Vegetable
+9,Pepper,Vegetable
+10,Groundnut,Legume
+11,Cowpea,Legume
+12,Soybean,Legume
+13,Cotton,Cash
+14,Cocoa,Cash

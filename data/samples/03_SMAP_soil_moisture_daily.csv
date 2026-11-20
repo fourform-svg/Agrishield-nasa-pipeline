@@ -1,0 +1,451 @@
+date,state,lga,soil_moisture
+2026-10-21,Lagos,Ikeja,0.255
+2026-10-21,Lagos,Lekki,0.495
+2026-10-21,Lagos,Epe,0.392
+2026-10-21,Oyo,Ibadan North,0.487
+2026-10-21,Oyo,Ogbomosho,0.293
+2026-10-21,Oyo,Oyo,0.438
+2026-10-21,Ogun,Abeokuta South,0.317
+2026-10-21,Ogun,Ifo,0.374
+2026-10-21,Ogun,Sagamu,0.469
+2026-10-21,Kano,Kano Municipal,0.238
+2026-10-21,Kano,Dala,0.196
+2026-10-21,Kano,Gwale,0.166
+2026-10-21,Kaduna,Kaduna North,0.108
+2026-10-21,Kaduna,Zaria,0.218
+2026-10-21,Kaduna,Kafanchan,0.108
+2026-10-22,Lagos,Ikeja,0.522
+2026-10-22,Lagos,Lekki,0.305
+2026-10-22,Lagos,Epe,0.423
+2026-10-22,Oyo,Ibadan North,0.325
+2026-10-22,Oyo,Ogbomosho,0.27
+2026-10-22,Oyo,Oyo,0.267
+2026-10-22,Ogun,Abeokuta South,0.397
+2026-10-22,Ogun,Ifo,0.252
+2026-10-22,Ogun,Sagamu,0.348
+2026-10-22,Kano,Kano Municipal,0.244
+2026-10-22,Kano,Dala,0.169
+2026-10-22,Kano,Gwale,0.239
+2026-10-22,Kaduna,Kaduna North,0.128
+2026-10-22,Kaduna,Zaria,0.226
+2026-10-22,Kaduna,Kafanchan,0.223
+2026-10-23,Lagos,Ikeja,0.352
+2026-10-23,Lagos,Lekki,0.294
+2026-10-23,Lagos,Epe,0.505
+2026-10-23,Oyo,Ibadan North,0.524
+2026-10-23,Oyo,Ogbomosho,0.269
+2026-10-23,Oyo,Oyo,0.333
+2026-10-23,Ogun,Abeokuta South,0.273
+2026-10-23,Ogun,Ifo,0.287
+2026-10-23,Ogun,Sagamu,0.522
+2026-10-23,Kano,Kano Municipal,0.163
+2026-10-23,Kano,Dala,0.173
+2026-10-23,Kano,Gwale,0.127
+2026-10-23,Kaduna,Kaduna North,0.097
+2026-10-23,Kaduna,Zaria,0.167
+2026-10-23,Kaduna,Kafanchan,0.164
+2026-10-24,Lagos,Ikeja,0.427
+2026-10-24,Lagos,Lekki,0.432
+2026-10-24,Lagos,Epe,0.383
+2026-10-24,Oyo,Ibadan North,0.54
+2026-10-24,Oyo,Ogbomosho,0.381
+2026-10-24,Oyo,Oyo,0.473
+2026-10-24,Ogun,Abeokuta South,0.396
+2026-10-24,Ogun,Ifo,0.281
+2026-10-24,Ogun,Sagamu,0.381
+2026-10-24,Kano,Kano Municipal,0.212
+2026-10-24,Kano,Dala,0.18
+2026-10-24,Kano,Gwale,0.213
+2026-10-24,Kaduna,Kaduna North,0.205
+2026-10-24,Kaduna,Zaria,0.237
+2026-10-24,Kaduna,Kafanchan,0.169
+2026-10-25,Lagos,Ikeja,0.53
+2026-10-25,Lagos,Lekki,0.426
+2026-10-25,Lagos,Epe,0.371
+2026-10-25,Oyo,Ibadan North,0.429
+2026-10-25,Oyo,Ogbomosho,0.435
+2026-10-25,Oyo,Oyo,0.302
+2026-10-25,Ogun,Abeokuta South,0.479
+2026-10-25,Ogun,Ifo,0.415
+2026-10-25,Ogun,Sagamu,0.384
+2026-10-25,Kano,Kano Municipal,0.206
+2026-10-25,Kano,Dala,0.149
+2026-10-25,Kano,Gwale,0.096
+2026-10-25,Kaduna,Kaduna North,0.192
+2026-10-25,Kaduna,Zaria,0.085
+2026-10-25,Kaduna,Kafanchan,0.186
+2026-10-26,Lagos,Ikeja,0.384
+2026-10-26,Lagos,Lekki,0.281
+2026-10-26,Lagos,Epe,0.258
+2026-10-26,Oyo,Ibadan North,0.336
+2026-10-26,Oyo,Ogbomosho,0.402
+2026-10-26,Oyo,Oyo,0.442
+2026-10-26,Ogun,Abeokuta South,0.336
+2026-10-26,Ogun,Ifo,0.489
+2026-10-26,Ogun,Sagamu,0.402
+2026-10-26,Kano,Kano Municipal,0.179
+2026-10-26,Kano,Dala,0.181
+2026-10-26,Kano,Gwale,0.129
+2026-10-26,Kaduna,Kaduna North,0.216
+2026-10-26,Kaduna,Zaria,0.224
+2026-10-26,Kaduna,Kafanchan,0.131
+2026-10-27,Lagos,Ikeja,0.421
+2026-10-27,Lagos,Lekki,0.364
+2026-10-27,Lagos,Epe,0.478
+2026-10-27,Oyo,Ibadan North,0.484
+2026-10-27,Oyo,Ogbomosho,0.519
+2026-10-27,Oyo,Oyo,0.275
+2026-10-27,Ogun,Abeokuta South,0.402
+2026-10-27,Ogun,Ifo,0.363
+2026-10-27,Ogun,Sagamu,0.369
+2026-10-27,Kano,Kano Municipal,0.172
+2026-10-27,Kano,Dala,0.156
+2026-10-27,Kano,Gwale,0.081
+2026-10-27,Kaduna,Kaduna North,0.081
+2026-10-27,Kaduna,Zaria,0.09
+2026-10-27,Kaduna,Kafanchan,0.239
+2026-10-28,Lagos,Ikeja,0.255
+2026-10-28,Lagos,Lekki,0.526
+2026-10-28,Lagos,Epe,0.322
+2026-10-28,Oyo,Ibadan North,0.453
+2026-10-28,Oyo,Ogbomosho,0.306
+2026-10-28,Oyo,Oyo,0.334
+2026-10-28,Ogun,Abeokuta South,0.331
+2026-10-28,Ogun,Ifo,0.385
+2026-10-28,Ogun,Sagamu,0.391
+2026-10-28,Kano,Kano Municipal,0.117
+2026-10-28,Kano,Dala,0.156
+2026-10-28,Kano,Gwale,0.104
+2026-10-28,Kaduna,Kaduna North,0.143
+2026-10-28,Kaduna,Zaria,0.179
+2026-10-28,Kaduna,Kafanchan,0.086
+2026-10-29,Lagos,Ikeja,0.295
+2026-10-29,Lagos,Lekki,0.46
+2026-10-29,Lagos,Epe,0.318
+2026-10-29,Oyo,Ibadan North,0.34
+2026-10-29,Oyo,Ogbomosho,0.276
+2026-10-29,Oyo,Oyo,0.55
+2026-10-29,Ogun,Abeokuta South,0.508
+2026-10-29,Ogun,Ifo,0.43
+2026-10-29,Ogun,Sagamu,0.373
+2026-10-29,Kano,Kano Municipal,0.163
+2026-10-29,Kano,Dala,0.086
+2026-10-29,Kano,Gwale,0.08
+2026-10-29,Kaduna,Kaduna North,0.119
+2026-10-29,Kaduna,Zaria,0.238
+2026-10-29,Kaduna,Kafanchan,0.104
+2026-10-30,Lagos,Ikeja,0.265
+2026-10-30,Lagos,Lekki,0.521
+2026-10-30,Lagos,Epe,0.522
+2026-10-30,Oyo,Ibadan North,0.333
+2026-10-30,Oyo,Ogbomosho,0.465
+2026-10-30,Oyo,Oyo,0.521
+2026-10-30,Ogun,Abeokuta South,0.549
+2026-10-30,Ogun,Ifo,0.394
+2026-10-30,Ogun,Sagamu,0.321
+2026-10-30,Kano,Kano Municipal,0.233
+2026-10-30,Kano,Dala,0.215
+2026-10-30,Kano,Gwale,0.198
+2026-10-30,Kaduna,Kaduna North,0.155
+2026-10-30,Kaduna,Zaria,0.103
+2026-10-30,Kaduna,Kafanchan,0.084
+2026-10-31,Lagos,Ikeja,0.499
+2026-10-31,Lagos,Lekki,0.321
+2026-10-31,Lagos,Epe,0.531
+2026-10-31,Oyo,Ibadan North,0.531
+2026-10-31,Oyo,Ogbomosho,0.307
+2026-10-31,Oyo,Oyo,0.389
+2026-10-31,Ogun,Abeokuta South,0.264
+2026-10-31,Ogun,Ifo,0.346
+2026-10-31,Ogun,Sagamu,0.351
+2026-10-31,Kano,Kano Municipal,0.212
+2026-10-31,Kano,Dala,0.139
+2026-10-31,Kano,Gwale,0.095
+2026-10-31,Kaduna,Kaduna North,0.098
+2026-10-31,Kaduna,Zaria,0.174
+2026-10-31,Kaduna,Kafanchan,0.111
+2026-11-01,Lagos,Ikeja,0.284
+2026-11-01,Lagos,Lekki,0.462
+2026-11-01,Lagos,Epe,0.292
+2026-11-01,Oyo,Ibadan North,0.374
+2026-11-01,Oyo,Ogbomosho,0.507
+2026-11-01,Oyo,Oyo,0.335
+2026-11-01,Ogun,Abeokuta South,0.277
+2026-11-01,Ogun,Ifo,0.343
+2026-11-01,Ogun,Sagamu,0.323
+2026-11-01,Kano,Kano Municipal,0.191
+2026-11-01,Kano,Dala,0.231
+2026-11-01,Kano,Gwale,0.249
+2026-11-01,Kaduna,Kaduna North,0.098
+2026-11-01,Kaduna,Zaria,0.088
+2026-11-01,Kaduna,Kafanchan,0.212
+2026-11-02,Lagos,Ikeja,0.444
+2026-11-02,Lagos,Lekki,0.266
+2026-11-02,Lagos,Epe,0.308
+2026-11-02,Oyo,Ibadan North,0.296
+2026-11-02,Oyo,Ogbomosho,0.439
+2026-11-02,Oyo,Oyo,0.291
+2026-11-02,Ogun,Abeokuta South,0.345
+2026-11-02,Ogun,Ifo,0.517
+2026-11-02,Ogun,Sagamu,0.496
+2026-11-02,Kano,Kano Municipal,0.187
+2026-11-02,Kano,Dala,0.166
+2026-11-02,Kano,Gwale,0.233
+2026-11-02,Kaduna,Kaduna North,0.102
+2026-11-02,Kaduna,Zaria,0.107
+2026-11-02,Kaduna,Kafanchan,0.215
+2026-11-03,Lagos,Ikeja,0.378
+2026-11-03,Lagos,Lekki,0.541
+2026-11-03,Lagos,Epe,0.463
+2026-11-03,Oyo,Ibadan North,0.356
+2026-11-03,Oyo,Ogbomosho,0.314
+2026-11-03,Oyo,Oyo,0.321
+2026-11-03,Ogun,Abeokuta South,0.526
+2026-11-03,Ogun,Ifo,0.467
+2026-11-03,Ogun,Sagamu,0.339
+2026-11-03,Kano,Kano Municipal,0.19
+2026-11-03,Kano,Dala,0.163
+2026-11-03,Kano,Gwale,0.098
+2026-11-03,Kaduna,Kaduna North,0.1
+2026-11-03,Kaduna,Zaria,0.175
+2026-11-03,Kaduna,Kafanchan,0.228
+2026-11-04,Lagos,Ikeja,0.512
+2026-11-04,Lagos,Lekki,0.328
+2026-11-04,Lagos,Epe,0.472
+2026-11-04,Oyo,Ibadan North,0.461
+2026-11-04,Oyo,Ogbomosho,0.371
+2026-11-04,Oyo,Oyo,0.289
+2026-11-04,Ogun,Abeokuta South,0.528
+2026-11-04,Ogun,Ifo,0.311
+2026-11-04,Ogun,Sagamu,0.409
+2026-11-04,Kano,Kano Municipal,0.245
+2026-11-04,Kano,Dala,0.092
+2026-11-04,Kano,Gwale,0.2
+2026-11-04,Kaduna,Kaduna North,0.095
+2026-11-04,Kaduna,Zaria,0.229
+2026-11-04,Kaduna,Kafanchan,0.163
+2026-11-05,Lagos,Ikeja,0.409
+2026-11-05,Lagos,Lekki,0.438
+2026-11-05,Lagos,Epe,0.253
+2026-11-05,Oyo,Ibadan North,0.367
+2026-11-05,Oyo,Ogbomosho,0.364
+2026-11-05,Oyo,Oyo,0.252
+2026-11-05,Ogun,Abeokuta South,0.455
+2026-11-05,Ogun,Ifo,0.32
+2026-11-05,Ogun,Sagamu,0.284
+2026-11-05,Kano,Kano Municipal,0.131
+2026-11-05,Kano,Dala,0.24
+2026-11-05,Kano,Gwale,0.132
+2026-11-05,Kaduna,Kaduna North,0.226
+2026-11-05,Kaduna,Zaria,0.154
+2026-11-05,Kaduna,Kafanchan,0.171
+2026-11-06,Lagos,Ikeja,0.487
+2026-11-06,Lagos,Lekki,0.325
+2026-11-06,Lagos,Epe,0.491
+2026-11-06,Oyo,Ibadan North,0.508
+2026-11-06,Oyo,Ogbomosho,0.282
+2026-11-06,Oyo,Oyo,0.45
+2026-11-06,Ogun,Abeokuta South,0.442
+2026-11-06,Ogun,Ifo,0.264
+2026-11-06,Ogun,Sagamu,0.485
+2026-11-06,Kano,Kano Municipal,0.208
+2026-11-06,Kano,Dala,0.131
+2026-11-06,Kano,Gwale,0.153
+2026-11-06,Kaduna,Kaduna North,0.23
+2026-11-06,Kaduna,Zaria,0.249
+2026-11-06,Kaduna,Kafanchan,0.249
+2026-11-07,Lagos,Ikeja,0.529
+2026-11-07,Lagos,Lekki,0.34
+2026-11-07,Lagos,Epe,0.372
+2026-11-07,Oyo,Ibadan North,0.271
+2026-11-07,Oyo,Ogbomosho,0.295
+2026-11-07,Oyo,Oyo,0.39
+2026-11-07,Ogun,Abeokuta South,0.304
+2026-11-07,Ogun,Ifo,0.501
+2026-11-07,Ogun,Sagamu,0.335
+2026-11-07,Kano,Kano Municipal,0.136
+2026-11-07,Kano,Dala,0.198
+2026-11-07,Kano,Gwale,0.089
+2026-11-07,Kaduna,Kaduna North,0.107
+2026-11-07,Kaduna,Zaria,0.24
+2026-11-07,Kaduna,Kafanchan,0.148
+2026-11-08,Lagos,Ikeja,0.287
+2026-11-08,Lagos,Lekki,0.536
+2026-11-08,Lagos,Epe,0.428
+2026-11-08,Oyo,Ibadan North,0.533
+2026-11-08,Oyo,Ogbomosho,0.256
+2026-11-08,Oyo,Oyo,0.528
+2026-11-08,Ogun,Abeokuta South,0.276
+2026-11-08,Ogun,Ifo,0.54
+2026-11-08,Ogun,Sagamu,0.533
+2026-11-08,Kano,Kano Municipal,0.158
+2026-11-08,Kano,Dala,0.143
+2026-11-08,Kano,Gwale,0.198
+2026-11-08,Kaduna,Kaduna North,0.216
+2026-11-08,Kaduna,Zaria,0.183
+2026-11-08,Kaduna,Kafanchan,0.165
+2026-11-09,Lagos,Ikeja,0.376
+2026-11-09,Lagos,Lekki,0.471
+2026-11-09,Lagos,Epe,0.515
+2026-11-09,Oyo,Ibadan North,0.283
+2026-11-09,Oyo,Ogbomosho,0.294
+2026-11-09,Oyo,Oyo,0.447
+2026-11-09,Ogun,Abeokuta South,0.402
+2026-11-09,Ogun,Ifo,0.408
+2026-11-09,Ogun,Sagamu,0.362
+2026-11-09,Kano,Kano Municipal,0.222
+2026-11-09,Kano,Dala,0.114
+2026-11-09,Kano,Gwale,0.142
+2026-11-09,Kaduna,Kaduna North,0.201
+2026-11-09,Kaduna,Zaria,0.191
+2026-11-09,Kaduna,Kafanchan,0.173
+2026-11-10,Lagos,Ikeja,0.427
+2026-11-10,Lagos,Lekki,0.431
+2026-11-10,Lagos,Epe,0.511
+2026-11-10,Oyo,Ibadan North,0.431
+2026-11-10,Oyo,Ogbomosho,0.265
+2026-11-10,Oyo,Oyo,0.358
+2026-11-10,Ogun,Abeokuta South,0.498
+2026-11-10,Ogun,Ifo,0.355
+2026-11-10,Ogun,Sagamu,0.441
+2026-11-10,Kano,Kano Municipal,0.245
+2026-11-10,Kano,Dala,0.173
+2026-11-10,Kano,Gwale,0.228
+2026-11-10,Kaduna,Kaduna North,0.117
+2026-11-10,Kaduna,Zaria,0.154
+2026-11-10,Kaduna,Kafanchan,0.178
+2026-11-11,Lagos,Ikeja,0.452
+2026-11-11,Lagos,Lekki,0.548
+2026-11-11,Lagos,Epe,0.266
+2026-11-11,Oyo,Ibadan North,0.361
+2026-11-11,Oyo,Ogbomosho,0.297
+2026-11-11,Oyo,Oyo,0.37
+2026-11-11,Ogun,Abeokuta South,0.481
+2026-11-11,Ogun,Ifo,0.293
+2026-11-11,Ogun,Sagamu,0.455
+2026-11-11,Kano,Kano Municipal,0.086
+2026-11-11,Kano,Dala,0.156
+2026-11-11,Kano,Gwale,0.105
+2026-11-11,Kaduna,Kaduna North,0.131
+2026-11-11,Kaduna,Zaria,0.196
+2026-11-11,Kaduna,Kafanchan,0.196
+2026-11-12,Lagos,Ikeja,0.479
+2026-11-12,Lagos,Lekki,0.458
+2026-11-12,Lagos,Epe,0.357
+2026-11-12,Oyo,Ibadan North,0.345
+2026-11-12,Oyo,Ogbomosho,0.521
+2026-11-12,Oyo,Oyo,0.463
+2026-11-12,Ogun,Abeokuta South,0.4
+2026-11-12,Ogun,Ifo,0.26
+2026-11-12,Ogun,Sagamu,0.262
+2026-11-12,Kano,Kano Municipal,0.202
+2026-11-12,Kano,Dala,0.096
+2026-11-12,Kano,Gwale,0.089
+2026-11-12,Kaduna,Kaduna North,0.104
+2026-11-12,Kaduna,Zaria,0.175
+2026-11-12,Kaduna,Kafanchan,0.199
+2026-11-13,Lagos,Ikeja,0.519
+2026-11-13,Lagos,Lekki,0.297
+2026-11-13,Lagos,Epe,0.461
+2026-11-13,Oyo,Ibadan North,0.291
+2026-11-13,Oyo,Ogbomosho,0.5
+2026-11-13,Oyo,Oyo,0.296
+2026-11-13,Ogun,Abeokuta South,0.544
+2026-11-13,Ogun,Ifo,0.456
+2026-11-13,Ogun,Sagamu,0.386
+2026-11-13,Kano,Kano Municipal,0.09
+2026-11-13,Kano,Dala,0.105
+2026-11-13,Kano,Gwale,0.21
+2026-11-13,Kaduna,Kaduna North,0.213
+2026-11-13,Kaduna,Zaria,0.242
+2026-11-13,Kaduna,Kafanchan,0.184
+2026-11-14,Lagos,Ikeja,0.425
+2026-11-14,Lagos,Lekki,0.335
+2026-11-14,Lagos,Epe,0.355
+2026-11-14,Oyo,Ibadan North,0.413
+2026-11-14,Oyo,Ogbomosho,0.541
+2026-11-14,Oyo,Oyo,0.527
+2026-11-14,Ogun,Abeokuta South,0.279
+2026-11-14,Ogun,Ifo,0.523
+2026-11-14,Ogun,Sagamu,0.433
+2026-11-14,Kano,Kano Municipal,0.178
+2026-11-14,Kano,Dala,0.112
+2026-11-14,Kano,Gwale,0.139
+2026-11-14,Kaduna,Kaduna North,0.142
+2026-11-14,Kaduna,Zaria,0.093
+2026-11-14,Kaduna,Kafanchan,0.184
+2026-11-15,Lagos,Ikeja,0.313
+2026-11-15,Lagos,Lekki,0.524
+2026-11-15,Lagos,Epe,0.531
+2026-11-15,Oyo,Ibadan North,0.483
+2026-11-15,Oyo,Ogbomosho,0.378
+2026-11-15,Oyo,Oyo,0.272
+2026-11-15,Ogun,Abeokuta South,0.423
+2026-11-15,Ogun,Ifo,0.515
+2026-11-15,Ogun,Sagamu,0.505
+2026-11-15,Kano,Kano Municipal,0.21
+2026-11-15,Kano,Dala,0.156
+2026-11-15,Kano,Gwale,0.137
+2026-11-15,Kaduna,Kaduna North,0.203
+2026-11-15,Kaduna,Zaria,0.179
+2026-11-15,Kaduna,Kafanchan,0.103
+2026-11-16,Lagos,Ikeja,0.372
+2026-11-16,Lagos,Lekki,0.356
+2026-11-16,Lagos,Epe,0.535
+2026-11-16,Oyo,Ibadan North,0.546
+2026-11-16,Oyo,Ogbomosho,0.303
+2026-11-16,Oyo,Oyo,0.264
+2026-11-16,Ogun,Abeokuta South,0.469
+2026-11-16,Ogun,Ifo,0.362
+2026-11-16,Ogun,Sagamu,0.308
+2026-11-16,Kano,Kano Municipal,0.19
+2026-11-16,Kano,Dala,0.172
+2026-11-16,Kano,Gwale,0.133
+2026-11-16,Kaduna,Kaduna North,0.243
+2026-11-16,Kaduna,Zaria,0.179
+2026-11-16,Kaduna,Kafanchan,0.246
+2026-11-17,Lagos,Ikeja,0.419
+2026-11-17,Lagos,Lekki,0.45
+2026-11-17,Lagos,Epe,0.257
+2026-11-17,Oyo,Ibadan North,0.519
+2026-11-17,Oyo,Ogbomosho,0.257
+2026-11-17,Oyo,Oyo,0.254
+2026-11-17,Ogun,Abeokuta South,0.337
+2026-11-17,Ogun,Ifo,0.271
+2026-11-17,Ogun,Sagamu,0.517
+2026-11-17,Kano,Kano Municipal,0.223
+2026-11-17,Kano,Dala,0.237
+2026-11-17,Kano,Gwale,0.13
+2026-11-17,Kaduna,Kaduna North,0.115
+2026-11-17,Kaduna,Zaria,0.217
+2026-11-17,Kaduna,Kafanchan,0.098
+2026-11-18,Lagos,Ikeja,0.267
+2026-11-18,Lagos,Lekki,0.462
+2026-11-18,Lagos,Epe,0.348
+2026-11-18,Oyo,Ibadan North,0.38
+2026-11-18,Oyo,Ogbomosho,0.39
+2026-11-18,Oyo,Oyo,0.549
+2026-11-18,Ogun,Abeokuta South,0.494
+2026-11-18,Ogun,Ifo,0.309
+2026-11-18,Ogun,Sagamu,0.256
+2026-11-18,Kano,Kano Municipal,0.163
+2026-11-18,Kano,Dala,0.182
+2026-11-18,Kano,Gwale,0.147
+2026-11-18,Kaduna,Kaduna North,0.174
+2026-11-18,Kaduna,Zaria,0.134
+2026-11-18,Kaduna,Kafanchan,0.241
+2026-11-19,Lagos,Ikeja,0.309
+2026-11-19,Lagos,Lekki,0.26
+2026-11-19,Lagos,Epe,0.486
+2026-11-19,Oyo,Ibadan North,0.431
+2026-11-19,Oyo,Ogbomosho,0.446
+2026-11-19,Oyo,Oyo,0.488
+2026-11-19,Ogun,Abeokuta South,0.439
+2026-11-19,Ogun,Ifo,0.264
+2026-11-19,Ogun,Sagamu,0.264
+2026-11-19,Kano,Kano Municipal,0.143
+2026-11-19,Kano,Dala,0.127
+2026-11-19,Kano,Gwale,0.102
+2026-11-19,Kaduna,Kaduna North,0.217
+2026-11-19,Kaduna,Zaria,0.174
+2026-11-19,Kaduna,Kafanchan,0.174

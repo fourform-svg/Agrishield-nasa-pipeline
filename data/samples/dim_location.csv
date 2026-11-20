@@ -1,0 +1,16 @@
+location_key,state,lga,region,farmer_count
+1,Lagos,Ikeja,South-West,6000
+2,Lagos,Lekki,South-West,6000
+3,Lagos,Epe,South-West,6000
+4,Oyo,Ibadan North,South-West,14000
+5,Oyo,Ogbomosho,South-West,14000
+6,Oyo,Oyo,South-West,14000
+7,Ogun,Abeokuta South,South-West,11000
+8,Ogun,Ifo,South-West,11000
+9,Ogun,Sagamu,South-West,11000
+10,Kano,Kano Municipal,North-West,10000
+11,Kano,Dala,North-West,10000
+12,Kano,Gwale,North-West,10000
+13,Kaduna,Kaduna North,North-West,9000
+14,Kaduna,Zaria,North-West,9000
+15,Kaduna,Kafanchan,North-West,9000

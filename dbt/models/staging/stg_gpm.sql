@@ -1,0 +1,1 @@
+select date, state, lga, rainfall_mm from {{ source('silver','gpm_daily') }}

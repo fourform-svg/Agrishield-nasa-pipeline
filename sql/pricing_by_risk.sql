@@ -1,0 +1,1 @@
+SELECT state, AVG(drought_score) AS avg_drought FROM fact_farm_risk_daily GROUP BY state ORDER BY avg_drought DESC;

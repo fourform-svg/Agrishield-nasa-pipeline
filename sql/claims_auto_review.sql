@@ -1,0 +1,1 @@
+SELECT * FROM fact_farm_risk_daily WHERE drought_score > 70; -- 7 consecutive days -> auto-review
